@@ -1,0 +1,18 @@
+{
+  "version" : 2,
+  "builds" :[
+      {
+        "src" : "./index.js",
+        "use": "@vercel/node",
+        "env": {
+            "DATABASE0_URI": "mongodb+srv://tgrb:tgrb.org@cluster0.fnayd6d.mongodb.net/database0?retryWrites=true&w=majority"
+          } 
+      }
+    ],
+  "routes":[
+      {
+        "src" : "/(.*)",
+        "dest" : "/"
+      }
+    ]
+}
