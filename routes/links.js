@@ -36,7 +36,6 @@ router.get("/alllinks", (req, res) => {
 });
 
 // this route works fine
-// returns only links => public:True
 router.get("/allPublicLinks", (req, res) => {
   linksCollection
     .find({ public: true })
