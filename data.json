@@ -1,0 +1,115 @@
+{
+    "allLinks": [
+        {
+            "_id": "6313b1286f95c0d2e01c4b9f",
+            "userId": "630257004795d41287fb62e0",
+            "userName": "Prakash Gupta",
+            "title": "no link :)",
+            "link": "n temporary link",
+            "likes": 0,
+            "dislikes": 0,
+            "public": true,
+            "__v": 0
+        },
+        {
+            "_id": "631424f4b1903b1343b1b0e9",
+            "userId": "630257004795d41287fb62e0",
+            "userName": "Prakash Gupta",
+            "title": "no link :)",
+            "link": "n temporary link",
+            "likes": 0,
+            "dislikes": 0,
+            "public": true,
+            "__v": 0
+        },
+        {
+            "_id": "6314287ab4a968b803d36aa9",
+            "userId": "6303ca4a8df142914f5b387f",
+            "userName": "Prakash Gupta",
+            "title": "no link :)",
+            "link": "n temporary link",
+            "likes": 0,
+            "dislikes": 0,
+            "public": true,
+            "__v": 0
+        },
+        {
+            "_id": "63142888b4a968b803d36aae",
+            "userId": "6303ca4a8df142914f5b387f",
+            "userName": "Prakash Gupta",
+            "title": "no link :)",
+            "link": "n temporary link",
+            "likes": 0,
+            "dislikes": 0,
+            "public": true,
+            "__v": 0
+        },
+        {
+            "_id": "635800df0d917c96ae688c8a",
+            "userId": "6303ca4a8df142914f5b387f",
+            "userName": "Prakash Gupta",
+            "title": "no link :)",
+            "link": "n temporary link",
+            "likes": 0,
+            "dislikes": 0,
+            "public": true,
+            "__v": 0
+        },
+        {
+            "_id": "635802f30d917c96ae688c90",
+            "userId": "6303ca4a8df142914f5b387f",
+            "userName": "Prakash Gupta",
+            "title": "no link :)",
+            "link": "n temporary link new1",
+            "likes": 0,
+            "dislikes": 0,
+            "public": true,
+            "__v": 0
+        },
+        {
+            "_id": "635803820d917c96ae688c97",
+            "userId": "6303ca4a8df142914f5b387f",
+            "userName": "Prakash Gupta",
+            "title": "no link :)",
+            "link": "n temporary link new1",
+            "likes": 0,
+            "dislikes": 0,
+            "public": true,
+            "__v": 0
+        },
+        {
+            "_id": "635806eb0d917c96ae688c9e",
+            "userId": "6303ca4a8df142914f5b387f",
+            "userName": "Prakash Gupta",
+            "title": "no link :)",
+            "link": "n temporary link new1",
+            "likes": 0,
+            "dislikes": 0,
+            "public": true,
+            "__v": 0
+        },
+        {
+            "_id": "6358089f0d917c96ae688ca3",
+            "userId": "6303ca4a8df142914f5b387f",
+            "userName": "Prakash Gupta",
+            "title": "no link :)",
+            "link": "n temporary link new1",
+            "likes": 0,
+            "dislikes": 0,
+            "public": true,
+            "__v": 0
+        },
+        {
+            "_id": "635808aa0d917c96ae688ca8",
+            "userId": "6303ca4a8df142914f5b387f",
+            "userName": "Prakash Gupta",
+            "title": "no link :)",
+            "link": "n temporary link new1",
+            "likes": 0,
+            "dislikes": 0,
+            "public": true,
+            "__v": 0
+        }
+    ],
+    "message": "allLinks is the array of the public links available"
+}
